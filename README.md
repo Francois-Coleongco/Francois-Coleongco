@@ -2,7 +2,7 @@
 
 
 
-| Current Project(s)                                                | Side Project(s) (not very complete)                                       |
+| Current Project(s)                                                | Side Project(s) | not very complete                                       |
 |------------------------------------------------------------------|--------------------------------------------------------|
 | ⚡ [E2EE Chat App](https://github.com/Chris-Coleongco/E2EE-Chat-App) | 🐹 [Custom File Transfer Server](https://github.com/Chris-Coleongco/Custom_File_Transfer_Protocol) |
 | 🦀 [Steganography Suite](https://github.com/Chris-Coleongco/Steganography_Suite) | 📸 [Security Camera Server](https://github.com/Chris-Coleongco/sec-cam-server) |
