@@ -1,9 +1,9 @@
 ## hello world 👋
 
-| Current Project(s)                                                | Side Project(s)                                        | Backlog (sadge)                          |
-|------------------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
-| 🦀 [E2EE Chat App](https://github.com/Chris-Coleongco/E2EE-Chat-App) | :gopher: [Custom File Transfer Server](https://github.com/Chris-Coleongco/Custom_File_Transfer_Protocol) | [Security Camera Server](https://github.com/Chris-Coleongco/sec-cam-server) |
-| [Steganography Suite](https://github.com/Chris-Coleongco/Steganography_Suite) |                                                        |                                          |
+| Current Project(s)                                                | Side Project(s)                                        |
+|------------------------------------------------------------------|--------------------------------------------------------|
+| [E2EE Chat App](https://github.com/Chris-Coleongco/E2EE-Chat-App) | [Custom File Transfer Server](https://github.com/Chris-Coleongco/Custom_File_Transfer_Protocol) |
+| 🦀 [Steganography Suite](https://github.com/Chris-Coleongco/Steganography_Suite) |                                                        |
 
 
 
