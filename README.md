@@ -1,5 +1,7 @@
 ## hello world 🦎
 
+trying to *git* good
+
 | Current Project(s)                                                | Side Project(s) \| not very complete                                       |
 |------------------------------------------------------------------|--------------------------------------------------------|
 | ⚡ [E2EE Chat App](https://github.com/Chris-Coleongco/E2EE-Chat-App) (MVP Complete) | 🐹 [Custom File Transfer Server](https://github.com/Chris-Coleongco/Custom_File_Transfer_Protocol) |
