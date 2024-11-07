@@ -1,7 +1,7 @@
 ## hello world 🦎
 
-so maybe the composite function\n
-of which makes up me\n
+so maybe the composite function
+of which makes up me
 does not have a solution
 when my limits are not set free
 
