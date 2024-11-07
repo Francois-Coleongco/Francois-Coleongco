@@ -1,6 +1,9 @@
 ## hello world 🦎
 
-trying to *git* good
+so maybe the composite function
+of which makes up me
+does not have a solution
+when my limits are not set free
 
 | Current Project(s)                                                | Side Project(s) \| not very complete                                       |
 |------------------------------------------------------------------|--------------------------------------------------------|
