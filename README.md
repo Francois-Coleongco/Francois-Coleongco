@@ -1,9 +1,9 @@
 ## hello world 🦎
 
 so maybe the composite function<br>
-of which makes up me
-does not have a solution
-when my limits are not set free
+of which makes up me<br>
+does not have a solution<br>
+when my limits are not set free<br>
 
 | Current Project(s)                                                | Side Project(s) \| not very complete                                       |
 |------------------------------------------------------------------|--------------------------------------------------------|
