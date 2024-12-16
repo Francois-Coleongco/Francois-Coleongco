@@ -1,4 +1,4 @@
-## 0x16 🦎
+## 0x02 🦎
 
 I like clickity clackitying on keyboard :p
 
@@ -18,6 +18,7 @@ I like clickity clackitying on keyboard :p
 | TypeScript/Javascript    | Elm |
 | C/C++ |  C#  |
 | Squeal (SQL) | PHP   |
+
 <!--
 **Chris-Coleongco/Chris-Coleongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
