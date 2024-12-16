@@ -16,6 +16,8 @@ I like clickity clackitying on keyboard :p
 | C/C++ |  C#  |
 | Squeal (SQL) | PHP   |
 
+----------------------------------------
+
 Dotfiles:
 
 if you like my setup, u can copy it over from here!
