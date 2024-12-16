@@ -18,7 +18,7 @@ I like clickity clackitying on keyboard :p
 
 ----------------------------------------
 
-## `dotfiles ❄️`
+## `ls ~/dotfiles`
 
 if you like my setup, u can copy it over from here!
 
