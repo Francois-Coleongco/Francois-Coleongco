@@ -20,7 +20,12 @@ I like clickity clackitying on keyboard :p
 
 ## `ls ~/dotfiles`
 
+
+
 if you like my setup, you can copy it over from here!
+
+![2024-12-16_10-55](https://github.com/user-attachments/assets/70237fb9-84a6-4799-8952-bb22a838f248)
+
 
 [neovim/linux configs](https://github.com/Chris-Coleongco/dotfiles)
 
