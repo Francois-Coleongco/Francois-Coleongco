@@ -22,7 +22,7 @@ I like clickity clackitying on keyboard :p
 
 
 
-if you like my setup, you can copy it over from 
+If you like my setup, you can copy it over from 
 [here](https://github.com/Chris-Coleongco/dotfiles)!
 
 ![2024-12-16_10-55](https://github.com/user-attachments/assets/70237fb9-84a6-4799-8952-bb22a838f248)
