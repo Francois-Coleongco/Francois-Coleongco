@@ -1,4 +1,4 @@
-## 0x02 🦎
+## `cat whoami.md`
 
 I like clickity clackitying on keyboard :p
 
