@@ -9,9 +9,9 @@ I like clickity clackitying on keyboard :p
 
 | Knowns   | TODO / In progress |
 |----------|----------|
-| Python   | Java   |
+| Go   | Java   |
 | Rust    |  Ocaml  |
-| Go    |  Zig  |
+| Python    |  Zig  |
 | TypeScript/Javascript    | Elm |
 | C/C++ |  C#  |
 | Squeal (SQL) | PHP   |
