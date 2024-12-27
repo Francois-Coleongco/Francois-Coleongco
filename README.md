@@ -5,7 +5,7 @@ I like clickity clackitying on keyboard :p
 | Current Project(s)                                                | Side Project(s) \| not very complete                                       |
 |------------------------------------------------------------------|--------------------------------------------------------|
 | 🦀 [Steganography Suite](https://github.com/Chris-Coleongco/Steganography_Suite) (MVP Complete) | 🐹 [Custom File Transfer Server](https://github.com/Chris-Coleongco/Custom_File_Transfer_Protocol) |
-| ⚡ [E2EE Chat App](https://github.com/Chris-Coleongco/E2EE-Chat-App) (MVP Complete) |  |
+| ⚡ [E2EE Chat App](https://github.com/Chris-Coleongco/E2EE-Chat-App) (MVP Complete) | 💼 [workflow manager](https://github.com/Chris-Coleongco/workflow) (MVP Complete) |
 
 | Knowns   | TODO / In progress |
 |----------|----------|
