@@ -24,7 +24,6 @@ If you like my setup, you can copy it over from
 [here](https://github.com/Chris-Coleongco/dotfiles)!
 
 
-![setup](https://github.com/user-attachments/assets/81ad1b34-cc9e-4999-8169-54393ab21d35)
 
 
 
