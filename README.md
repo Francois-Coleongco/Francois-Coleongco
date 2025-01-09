@@ -7,7 +7,7 @@ I like clickity clackitying on keyboard :p
 | 🦀 [Steganography Suite](https://github.com/Chris-Coleongco/Steganography_Suite) (MVP Complete) | 🐹 [Custom File Transfer Server](https://github.com/Chris-Coleongco/Custom_File_Transfer_Protocol) |
 | ⚡ [E2EE Chat App](https://github.com/Chris-Coleongco/E2EE-Chat-App) (MVP Complete) | 💼 [workflow manager](https://github.com/Chris-Coleongco/workflow) (MVP Complete) |
 
-| Knowns   | TODO / In progress |
+| Known   | In progress / TODO |
 |----------|----------|
 | Go   | Java (IP)   |
 | Rust    |  C# (IP)  |
