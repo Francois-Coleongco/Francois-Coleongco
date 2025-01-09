@@ -9,12 +9,12 @@ I like clickity clackitying on keyboard :p
 
 | Knowns   | TODO / In progress |
 |----------|----------|
-| Go   | Java   |
-| Rust    |  Ocaml  |
-| Python    |  Zig  |
-| TypeScript/Javascript    | Elm |
-| C/C++ |  C#  |
-| Squeal (SQL) | PHP   |
+| Go   | Java (IP)   |
+| Rust    |  C# (IP)  |
+| Python    |    |
+| TypeScript/Javascript    | PHP (TD) |
+| C/C++ |  Ocaml (TD)  |
+| Squeal (SQL) |  Zig (TD) |
 
 ----------------------------------------
 
