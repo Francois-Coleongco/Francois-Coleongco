@@ -20,8 +20,10 @@ I like clickity clackitying on keyboard :p
 
 ## `ls ~/dotfiles`
 
+https://github.com/user-attachments/assets/4d248ef2-0009-4b7f-848e-7d2f4272c953
+
 If you like my setup, you can copy it over from 
-[here](https://github.com/Chris-Coleongco/dotfiles)!
+[here](https://github.com/Francois-Coleongco/dotfiles)!
 
 
 
