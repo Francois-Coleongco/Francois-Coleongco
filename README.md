@@ -15,6 +15,7 @@ I like clickity clackitying on keyboard :p
 | TypeScript/Javascript    | PHP (TD) |
 | C/C++ |  Ocaml (TD)  |
 | Squeal (SQL) |  Zig (TD) |
+| Bash         |           |
 
 ----------------------------------------
 
