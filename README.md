@@ -3,10 +3,10 @@
 I like clickity clackitying on keyboard :p
 
 | projects |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|---|
+|   |
+|   |
+|   |
 
 | Known   | In Progress / TODO |
 |----------|----------|
