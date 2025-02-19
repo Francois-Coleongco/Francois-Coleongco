@@ -7,7 +7,7 @@ I like clickity clackitying on keyboard :p
 | 🦀 [Steganography Suite](https://github.com/Chris-Coleongco/Steganography_Suite) (MVP Complete) | 🐹 [Custom File Transfer Server](https://github.com/Chris-Coleongco/Custom_File_Transfer_Protocol) (hiatus) |
 | ⚡ [E2EE Chat App](https://github.com/Chris-Coleongco/E2EE-Chat-App) (MVP Complete) | Secret mwuahahhaa |
 
-| Known   | In progress / TODO |
+| Known   | In Progress / TODO |
 |----------|----------|
 | Go   | Java (IP)   |
 | Rust    |  C# (IP)  |
@@ -24,9 +24,6 @@ If you like my setup, you can copy it over from
 [here](https://github.com/Francois-Coleongco/dotfiles)!
 
 https://github.com/user-attachments/assets/309cc6db-e692-4b47-997a-7e1d5831f180
-
-
-
 
 <!--
 **Chris-Coleongco/Chris-Coleongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
