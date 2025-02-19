@@ -2,9 +2,11 @@
 
 I like clickity clackitying on keyboard :p
 
-| Current Project(s) -----------------------------------------------------------------|--
-| 🦀 [Steganography Suite](https://github.com/Chris-Coleongco/Steganography_Suite) (MVP Complete)
-| ⚡ [E2EE Chat App](https://github.com/Chris-Coleongco/E2EE-Chat-App) (MVP Complete) |
+| projects |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 | Known   | In Progress / TODO |
 |----------|----------|
