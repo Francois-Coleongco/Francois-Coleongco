@@ -25,7 +25,10 @@ I like clickity clackitying on keyboard :p
 If you like my setup, you can copy it over from 
 [here](https://github.com/Francois-Coleongco/dotfiles)!
 
-https://github.com/user-attachments/assets/309cc6db-e692-4b47-997a-7e1d5831f180
+https://github.com/user-attachments/assets/2a26ea97-30d5-4792-9bb0-e0975ac0a993
+
+
+
 
 <!--
 **Chris-Coleongco/Chris-Coleongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
