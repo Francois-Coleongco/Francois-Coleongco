@@ -27,9 +27,6 @@ If you like my setup, you can copy it over from
 
 https://github.com/user-attachments/assets/2a26ea97-30d5-4792-9bb0-e0975ac0a993
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=Francois-Coleongco&show_icons=true&theme=dark)
-
-
 <!--
 **Chris-Coleongco/Chris-Coleongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
