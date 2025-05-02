@@ -10,11 +10,11 @@ I like clickity clackitying on keyboard :p
 
 | Known   | In Progress / TODO |
 |----------|----------|
-| Go   | Java (IP)   |
+| C/C++   | Java (IP)   |
 | Rust    |  C# (IP)  |
 | Python    |    |
 | TypeScript/Javascript    | PHP (TD) |
-| C/C++ |  Ocaml (TD)  |
+| Go |  Ocaml (TD)  |
 | Squeal (SQL) |  Zig (TD) |
 | Bash         |           |
 
