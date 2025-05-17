@@ -6,7 +6,7 @@ I like clickity clackitying on keyboard :p
 |---|
 | [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite)  |
 | [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) |
-| [NoNoSquare] (https://github.com/Francois-Coleongco/ThisIsMyNoNoSquare) |
+| [NoNoSquare](https://github.com/Francois-Coleongco/ThisIsMyNoNoSquare) |
 
 | Known   | In Progress / TODO |
 |----------|----------|
