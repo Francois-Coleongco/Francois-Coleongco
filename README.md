@@ -6,17 +6,17 @@ I like clickity clackitying on keyboard :p
 |---|
 | [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) (kinda okay release version)  |
 | [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) (rough version) |
-| [NoNoSquare](https://github.com/Francois-Coleongco/ThisIsMyNoNoSquare) (running job) |
+| [NoNoSquare](https://github.com/Francois-Coleongco/ThisIsMyNoNoSquare) (currently working on) |
 
 | Known   | In Progress / TODO |
 |----------|----------|
 | C/C++   | Java (IP)   |
-| Rust    |  C# (IP)  |
+| TypeScript/Javascript  |  C# (IP)  |
 | Python    |    |
-| TypeScript/Javascript    | PHP (TD) |
-| Go |  Ocaml (TD)  |
+| Go   | PHP (TD) |
+| Bash |  Ocaml (TD)  |
 | Squeal (SQL) |  Zig (TD) |
-| Bash         |           |
+| Rust         |           |
 
 ----------------------------------------
 
