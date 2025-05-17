@@ -1,4 +1,4 @@
-## `cat whoami.md`
+## `whoami`
 
 I like clickity clackitying on keyboard :p
 
