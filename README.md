@@ -4,9 +4,9 @@ I like clickity clackitying on keyboard :p
 
 | projects |
 |---|
-| [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite)  |
-| [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) |
-| [NoNoSquare](https://github.com/Francois-Coleongco/ThisIsMyNoNoSquare) |
+| [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) (kinda okay release version)  |
+| [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) (rough version) |
+| [NoNoSquare](https://github.com/Francois-Coleongco/ThisIsMyNoNoSquare) (running job) |
 
 | Known   | In Progress / TODO |
 |----------|----------|
