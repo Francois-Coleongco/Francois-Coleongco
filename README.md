@@ -1,12 +1,14 @@
 ## `whoami`
 
-I like clickity clackitying on keyboard :p
+Just another guy that likes clickity clackitying on the ⌨️ 💚
 
-| projects |
+## `cat ~/projects`
 |---|
-| [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) (kinda okay release version)  |
-| [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) (rough version) |
-| [Multithreaded File Server & Client](https://github.com/Francois-Coleongco/MFSC) (currently working on) |
+| [Multithreaded File Server & Client](https://github.com/Francois-Coleongco/MFSC) (currently working on, biggest project yet o_O) |
+| [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) (stable release version!)  |
+| [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) (rough draft. i look at it to cringe) |
+
+## `cat ~/tech`
 
 | Known   | In Progress / TODO |
 |----------|----------|
@@ -18,12 +20,15 @@ I like clickity clackitying on keyboard :p
 | Squeal (SQL) |  Zig (TD) |
 | Rust         |           |
 
+i daily drive linux and neovim (fedora, previously ubuntu) mainly to minimize context switching. gotta love window managers.
+
 ----------------------------------------
 
 ## `ls ~/dotfiles`
 
 If you like my setup, you can copy it over from 
 [here](https://github.com/Francois-Coleongco/dotfiles)!
+<sub>psst. it's GNU stow compliant ;)</sub>
 
 
 https://github.com/user-attachments/assets/f230942d-ebaa-4998-8749-42000e68a913
