@@ -29,6 +29,7 @@ I daily drive Linux (Fedora, previously Ubuntu) and Neovim, mainly to minimize c
 
 If you like my setup, you can copy it over from 
 [here](https://github.com/Francois-Coleongco/dotfiles)!
+
 <sub>psst. it's GNU stow compliant ;)</sub>
 
 
