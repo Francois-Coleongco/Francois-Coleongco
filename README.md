@@ -2,7 +2,9 @@
 
 Just another guy that likes clickity clackitying on the ⌨️ 💚
 
-## `cat ~/projects 🗃️`
+First Year @ ualberta
+
+## `ls ~/dev 🗃️`
 | Project  | Status |
 | ------------- | ------------- |
 | [Multithreaded File Server & Client](https://github.com/Francois-Coleongco/MFSC) | 🥔 Ongoing, biggest project yet) |
