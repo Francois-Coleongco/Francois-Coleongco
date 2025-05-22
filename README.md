@@ -5,8 +5,8 @@ Just another guy that likes clickity clackitying on the ⌨️ 💚
 ## `cat ~/projects 🗃️`
 | Project  | Status |
 | ------------- | ------------- |
-| [Multithreaded File Server & Client](https://github.com/Francois-Coleongco/MFSC) | Ongoing, biggest project yet) |
-| [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) | stable release version! see Releases |
+| [Multithreaded File Server & Client](https://github.com/Francois-Coleongco/MFSC) | 🥔 Ongoing, biggest project yet) |
+| [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) | Stable release version! see Releases |
 | [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) | Rough draft. I look at it to cringe) |
 
 ## `cat ~/tech 💻`
@@ -25,7 +25,7 @@ i daily drive Linux (Fedora, previously ubuntu) and Neovim, mainly to minimize c
 
 ----------------------------------------
 
-## `ls ~/dotfiles`
+## `ls ~/dotfiles 🗂️`
 
 If you like my setup, you can copy it over from 
 [here](https://github.com/Francois-Coleongco/dotfiles)!
