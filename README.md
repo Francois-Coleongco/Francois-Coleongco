@@ -3,7 +3,7 @@
 Just another guy that likes clickity clackitying on the ⌨️ 💚
 
 ## `cat ~/projects 🗃️`
-|---|
+
 | [Multithreaded File Server & Client](https://github.com/Francois-Coleongco/MFSC) (currently working on, biggest project yet o_O) |
 | [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) (stable release version!)  |
 | [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) (rough draft. i look at it to cringe) |
