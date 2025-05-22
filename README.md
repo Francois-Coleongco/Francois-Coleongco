@@ -7,7 +7,7 @@ Just another guy that likes clickity clackitying on the ⌨️ 💚
 | ------------- | ------------- |
 | [Multithreaded File Server & Client](https://github.com/Francois-Coleongco/MFSC) | 🥔 Ongoing, biggest project yet) |
 | [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) | Stable release version! see Releases |
-| [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) | Rough draft. I look at it to cringe. it was my first big project so that's why it's here) |
+| [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) | Rough draft. I look at it to cringe. It was my first big project so that's why it's here) |
 
 ## `cat ~/tech 💻`
 
@@ -21,7 +21,7 @@ Just another guy that likes clickity clackitying on the ⌨️ 💚
 | Squeal (SQL) |  Zig (TD) |
 | Rust         |           |
 
-i daily drive Linux (Fedora, previously ubuntu) and Neovim, mainly to minimize context switching and faster editing. Gotta love window managers and macros 🤘
+I daily drive Linux (Fedora, previously Ubuntu) and Neovim, mainly to minimize context switching and faster editing. Gotta love window managers and macros 🤘
 
 ----------------------------------------
 
