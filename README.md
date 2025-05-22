@@ -7,7 +7,7 @@ Just another guy that likes clickity clackitying on the ⌨️ 💚
 | ------------- | ------------- |
 | [Multithreaded File Server & Client](https://github.com/Francois-Coleongco/MFSC) | 🥔 Ongoing, biggest project yet) |
 | [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) | Stable release version! see Releases |
-| [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) | Rough draft. I look at it to cringe) |
+| [E2EE Chat App](https://github.com/Francois-Coleongco/E2EE_Chat_App) | Rough draft. I look at it to cringe. it was my first big project so that's why it's here) |
 
 ## `cat ~/tech 💻`
 
