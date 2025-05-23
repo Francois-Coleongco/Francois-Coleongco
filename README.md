@@ -7,8 +7,8 @@ First Year @ ualberta
 ## `ls ~/dev 🗃️`
 | Project  | Status |
 | ------------- | ------------- |
-| [Multithreaded File Server & Client](https://github.com/Francois-Coleongco/MFSC) | 🥔 Ongoing, biggest project yet) |
-| [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) | Stable release version! see Releases |
+| [Multithreaded File Server & Client](https://github.com/Francois-Coleongco/MFSC) | 🥔 Ongoing) |
+| [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) | Stable release version! See Releases. |
 
 ## `cat ~/tech 💻`
 
