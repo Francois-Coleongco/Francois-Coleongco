@@ -1,8 +1,8 @@
 ## `whoami`
 
-Just another guy that likes clickity clackitying on the ⌨️ 💚
+someone who likes to clickity clackity 💻
 
-First Year @ ualberta
+First Year @ the University of Alberta
 
 ## `ls ~/dev 🗃️`
 | Project  | Status |
@@ -22,7 +22,7 @@ First Year @ ualberta
 | Squeal (SQL) |  Zig (TD) |
 | Rust         |           |
 
-I daily drive Linux (Fedora, previously Ubuntu) and Neovim, mainly to minimize context switching and faster editing. Gotta love window managers and macros 🤘
+Linux is my daily driver (Fedora now, previously Ubuntu) and Neovim, mainly to minimize context switching and nyoom nyoom programming 🦎
 
 ----------------------------------------
 
