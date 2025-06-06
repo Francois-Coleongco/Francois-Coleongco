@@ -20,6 +20,7 @@ First Year @ the University of Alberta
 | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash) |[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)                                                         |
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)        |                                                               |
 | [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)|
 
 Linux is my daily driver (Fedora now, previously Ubuntu) and Neovim. Search fatigue is a plagueee 🦎
 
