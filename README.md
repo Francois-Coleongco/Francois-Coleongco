@@ -24,7 +24,7 @@ First Year @ the University of Alberta
 
 
 
-Linux is my daily driver (Fedora now, previously Ubuntu) and Neovim, mainly to minimize context switching and nyoom nyoom programming 🦎
+Linux is my daily driver (Fedora now, previously Ubuntu) and Neovim. Search fatigue is a plagueee 🦎
 
 ----------------------------------------
 
