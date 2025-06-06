@@ -16,7 +16,7 @@ First Year @ the University of Alberta
 |----------|
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)   | [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)   |
 | [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)  |  C# (IP)  |
-| [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)    |    |
+| [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)    |    
 | [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 | [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) |  Ocaml (TD)  |
 | [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) |  Zig (TD) |
