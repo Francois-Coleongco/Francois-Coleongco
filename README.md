@@ -11,6 +11,17 @@ First Year @ the University of Alberta
 | [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite) CURRENTLY PRIVATED | Stable release version! See Releases. |
 
 ## `cat ~/tech`
+| Languages                                                     | Skills                                                         |
+|--------------------------------------------------------------|---------------------------------------------------------------|
+| ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B)    | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)  |
+| ![C](https://img.shields.io/badge/-C-blue?logo=c)             | ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim) |
+| ![Rust](https://img.shields.io/badge/-Rust-orange?logo=rust)   | ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)         |
+| ![Python](https://img.shields.io/badge/-Python-blue?logo=python) | ![Tmux](https://img.shields.io/badge/-Tmux-1E4B30?logo=tmux)      |
+| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash) |                                                               |
+| ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)        |                                                               |
+| ![SQLite]()
+
+
 
 | Languages                                                      | Skills                                                         |
 |---------------------------------------------------------------|---------------------------------------------------------------|
