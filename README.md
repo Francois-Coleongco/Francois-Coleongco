@@ -17,7 +17,7 @@ First Year @ the University of Alberta
 | ![C](https://img.shields.io/badge/-C-blue?logo=c)             | ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim) |
 | ![Rust](https://img.shields.io/badge/-Rust-orange?logo=rust)   | ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)         |
 | ![Python](https://img.shields.io/badge/-Python-blue?logo=python) | ![Tmux](https://img.shields.io/badge/-Tmux-1E4B30?logo=tmux)      |
-| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash) |[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)                                                         |[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash) |[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)                                                         | [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)        |                                                               |
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)|
 
