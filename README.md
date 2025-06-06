@@ -12,15 +12,15 @@ First Year @ the University of Alberta
 
 ## `cat ~/tech`
 
-| Languages      | Skills        |
-|----------------|---------------|
-| ![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B)  | ![Linux](https://img.shields.io/badge/Skill-Linux-FCC624?logo=linux)  |
-| ![C](https://img.shields.io/badge/Language-C-blue?logo=c)           | ![Neovim](https://img.shields.io/badge/Skill-Neovim-57A143?logo=neovim) |
-| ![Rust](https://img.shields.io/badge/Language-Rust-orange?logo=rust) | ![Vim](https://img.shields.io/badge/Skill-Vim-019733?logo=vim)        |
-| ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python) | ![Tmux](https://img.shields.io/badge/Skill-Tmux-1E4B30?logo=tmux)     |
-| ![Bash](https://img.shields.io/badge/Language-Bash-4EAA25?logo=gnubash) |  |
-| ![Go](https://img.shields.io/badge/Language-Go-00ADD8?logo=go)       |  |
-| ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite) |  |
+| Languages                                                      | Skills                                                         |
+|---------------------------------------------------------------|---------------------------------------------------------------|
+| ![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)  |
+| ![C](https://img.shields.io/badge/Language-C-blue?logo=c)        | ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim) |
+| ![Rust](https://img.shields.io/badge/Language-Rust-orange?logo=rust) | ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)         |
+| ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python) | ![Tmux](https://img.shields.io/badge/-Tmux-1E4B30?logo=tmux)      |
+| ![Bash](https://img.shields.io/badge/Language-Bash-4EAA25?logo=gnubash) |                                                               |
+| ![Go](https://img.shields.io/badge/Language-Go-00ADD8?logo=go)    |                                                               |
+| ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite) |                                                               |
 
 
 
