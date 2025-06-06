@@ -12,15 +12,15 @@ First Year @ the University of Alberta
 
 ## `cat ~/tech 💻`
 
-| Known   | In Progress / TODO |
-|----------|----------|
-| C/C++   | Java (IP)   |
-| TypeScript/Javascript  |  C# (IP)  |
-| Python    |    |
-| Go   | PHP (TD) |
+| langs   | other |
+|----------|
+| [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)   | [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)   |
+| [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)  |  C# (IP)  |
+| [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)    |    |
+| [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 | [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) |  Ocaml (TD)  |
-| Squeal (SQL) |  Zig (TD) |
-| Rust         |           |
+| [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) |  Zig (TD) |
+|  [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)        |           |
 
 Linux is my daily driver (Fedora now, previously Ubuntu) and Neovim, mainly to minimize context switching and nyoom nyoom programming 🦎
 
