@@ -18,7 +18,7 @@ First Year @ the University of Alberta
 | TypeScript/Javascript  |  C# (IP)  |
 | Python    |    |
 | Go   | PHP (TD) |
-| Bash |  Ocaml (TD)  |
+| [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) |  Ocaml (TD)  |
 | Squeal (SQL) |  Zig (TD) |
 | Rust         |           |
 
