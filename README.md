@@ -19,20 +19,11 @@ First Year @ the University of Alberta
 | ![Python](https://img.shields.io/badge/-Python-blue?logo=python) | ![Tmux](https://img.shields.io/badge/-Tmux-1E4B30?logo=tmux)      |
 | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash) |                                                               |
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)        |                                                               |
-| ![SQLite]()
+| [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 
 
-| Languages                                                      | Skills                                                         |
-|---------------------------------------------------------------|---------------------------------------------------------------|
-| ![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)  |
-| ![C](https://img.shields.io/badge/Language-C-blue?logo=c)        | ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim) |
-| ![Rust](https://img.shields.io/badge/Language-Rust-orange?logo=rust) | ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)         |
-| ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python) | ![Tmux](https://img.shields.io/badge/-Tmux-1E4B30?logo=tmux)      |
-| ![Bash](https://img.shields.io/badge/Language-Bash-4EAA25?logo=gnubash) |                                                               |
-| ![Go](https://img.shields.io/badge/Language-Go-00ADD8?logo=go)    |                                                               |
-| ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite) |                                                               |
-
+| 
 
 
 Linux is my daily driver (Fedora now, previously Ubuntu) and Neovim. Search fatigue is a plagueee 🦎
