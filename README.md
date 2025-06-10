@@ -21,7 +21,7 @@ First Year Honors Computer Science @ the University of Alberta o_O
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)        |              [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)                                                 |
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)| gdb - couldn't find icon :')
 
-Linux is my daily driver (Fedora now, previously Ubuntu) and my editor is Neovim. I find that a minimal setup without too much context switching keeps me focused 😶‍🌫️
+Linux is my daily driver (Fedora now, previously Ubuntu, previously PopOS!) and my editor is Neovim. I find that a minimal setup without too much context switching keeps me focused 😶‍🌫️
 
 ----------------------------------------
 
