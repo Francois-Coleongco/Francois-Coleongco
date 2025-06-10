@@ -2,7 +2,7 @@
 
 someone who likes to clickity clackity 💻
 
-First Year @ the University of Alberta
+First Year Honors Computer Science @ the University of Alberta o_O
 
 ## `ls ~/dev 🗃️`
 | Project  | Status |
