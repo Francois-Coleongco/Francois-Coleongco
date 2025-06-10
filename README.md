@@ -8,7 +8,7 @@ First Year @ the University of Alberta
 | Project  | Status |
 | ------------- | ------------- |
 | 🗄️ [Multithreaded Encrypted File Server & Client (C++)](https://github.com/Francois-Coleongco/MEFSC)  | MVP created :) See Releases. |
-| 🥷 [Encrypted Steganography Suite (Rust)](https://github.com/Francois-Coleongco/Steganography_Suite)  | Stable release version! See Releases. |
+| 🥷 [Encrypted Steganography Suite (Rust & TypeScript)](https://github.com/Francois-Coleongco/Steganography_Suite)  | Stable release version! See Releases. |
 
 ## `cat ~/tech`
 | Languages                                                     | Skills                                                         |
