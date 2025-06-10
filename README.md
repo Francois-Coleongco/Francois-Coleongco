@@ -7,8 +7,8 @@ First Year @ the University of Alberta
 ## `ls ~/dev 🗃️`
 | Project  | Status |
 | ------------- | ------------- |
-| [Multithreaded Encrypted File Server & Client](https://github.com/Francois-Coleongco/MEFSC)  | MVP created :) See Releases. |
-| [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite)  | Stable release version! See Releases. |
+| 🗄️ [Multithreaded Encrypted File Server & Client](https://github.com/Francois-Coleongco/MEFSC)  | MVP created :) See Releases. |
+| 🥷 [Encrypted Steganography Suite](https://github.com/Francois-Coleongco/Steganography_Suite)  | Stable release version! See Releases. |
 
 ## `cat ~/tech`
 | Languages                                                     | Skills                                                         |
@@ -21,7 +21,7 @@ First Year @ the University of Alberta
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)        |              [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)                                                 |
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)| gdb - couldn't find icon :')
 
-Linux is my daily driver (Fedora now, previously Ubuntu) and Neovim. Search fatigue is a plagueee 🦎
+Linux is my daily driver (Fedora now, previously Ubuntu) and my editor is Neovim. I find that a minimal setup without too much context switching keeps me focused 😶‍🌫️
 
 ----------------------------------------
 
