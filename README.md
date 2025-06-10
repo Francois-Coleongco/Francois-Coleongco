@@ -1,6 +1,6 @@
 ## `whoami`
 
-someone who likes to clickity clackity 💻
+Someone who likes to clickity clackity ⌨️ :)
 
 First Year Honors Computer Science @ the University of Alberta o_O
 
