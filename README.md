@@ -27,6 +27,8 @@ BSc Honors Computer Science @ the University of Alberta o_O
 
 Linux is my daily driver (Fedora now, previously Ubuntu, previously PopOS!) and my editor is Neovim. I find that a minimal setup without too much context switching keeps me focused 😶‍🌫️
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=francois-coleongco)](https://git.io/streak-stats)
+
 ----------------------------------------
 
 ## `ls ~/dotfiles 🗂️`
