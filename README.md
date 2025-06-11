@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=we're+all+void+*s)](https://git.io/typing-svg)
-
-## `whoami`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=1000&color=E06DEA&width=435&lines=~%2Fwhoami)](https://git.io/typing-svg)
 
 Someone who likes to clickity clackity ⌨️ :)
 
