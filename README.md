@@ -29,6 +29,7 @@ Linux is my daily driver (Fedora now, previously Ubuntu, previously PopOS!) and 
 ----------------------------------------
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=15000&color=E06DEA&width=435&lines=ls+~%2F.dotfiles)](https://git.io/typing-svg)
+
 If you like my setup, you can copy it over from 
 [here](https://github.com/Francois-Coleongco/dotfiles)!
 
