@@ -4,7 +4,6 @@ Someone who likes to clickity clackity ⌨️ :)
 
 BSc Honors Computer Science @ the University of Alberta o_O
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francois-coleongco)](https://github.com/anuraghazra/github-readme-stats)
 
 ## `ls ~/dev 🗃️`
 | Project  | Status |
