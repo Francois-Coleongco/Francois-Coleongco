@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=1000&color=E06DEA&width=435&lines=~%2Fwhoami)](https://git.io/typing-svg)
-
 Someone who likes to clickity clackity ⌨️ :)
 
 BSc Honors Computer Science @ the University of Alberta o_O
