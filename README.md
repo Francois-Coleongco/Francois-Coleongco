@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=void+*human+=???;)](https://git.io/typing-svg)
+
 ## `whoami`
 
 Someone who likes to clickity clackity ⌨️ :)
