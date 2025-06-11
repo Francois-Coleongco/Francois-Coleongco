@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=void+*human+=???\;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=we're+all+void+*s)](https://git.io/typing-svg)
 
 ## `whoami`
 
