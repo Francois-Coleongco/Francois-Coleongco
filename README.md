@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=1000&color=E06DEA&width=435&lines=whoami)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=10000&color=E06DEA&width=435&lines=whoami)](https://git.io/typing-svg)
 Someone who likes to clickity clackity ⌨️ :)
 
 BSc Honors Computer Science @ the University of Alberta o_O
 
 
-## `ls ~/dev 🗃️`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=4000&color=E06DEA&width=435&lines=ls+~%2Fdev)](https://git.io/typing-svg)
 | Project  | Status |
 | ------------- | ------------- |
 | 🗄️ [Multithreaded Encrypted File Server & Client (C++)](https://github.com/Francois-Coleongco/MEFSC)  | MVP created :) See Releases. |
