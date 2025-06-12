@@ -15,10 +15,10 @@ BSc Honors Computer Science @ the University of Alberta o_O
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=30000&color=E06DEA&width=435&lines=cat+~%2Ftech)](https://git.io/typing-svg)
 | Languages                                                     | Skills                                                         |
 |--------------------------------------------------------------|---------------------------------------------------------------|
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)    | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  |
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)             | ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=purple) |
-| ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)   | ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)         |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Tmux](https://img.shields.io/badge/-Tmux-1E4B30?logo=tmux)      |
+| ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B)    | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)  |
+| ![C](https://img.shields.io/badge/-C-blue?logo=c)             | ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim) |
+| ![Rust](https://img.shields.io/badge/-Rust-orange?logo=rust)   | ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)         |
+| ![Python](https://img.shields.io/badge/-Python-blue?logo=python) | ![Tmux](https://img.shields.io/badge/-Tmux-1E4B30?logo=tmux)      |
 | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash) |[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)                                                        
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)        |              [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)                                                 |
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)| gdb - couldn't find icon :')
