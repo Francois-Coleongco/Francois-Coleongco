@@ -24,7 +24,7 @@ BSc Honors Computer Science @ the University of Alberta o_O
 | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)                                                |                                                                                             |
 | ![Python](https://img.shields.io/badge/-Python-blue?logo=python)                                                                                | ![Tmux](https://img.shields.io/badge/-Tmux-1E4B30?logo=tmux)                                |
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)                                                                                           | ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)                                   |
-|                                                                                                                                                  | ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim)                          |
+|                        [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)                                                                                                                 | ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim)                          |
 
 
 Linux is my daily driver (Fedora now, previously Ubuntu, previously PopOS!) and my editor is Neovim. I find that a minimal setup without too much context switching keeps me focused 😶‍🌫️
