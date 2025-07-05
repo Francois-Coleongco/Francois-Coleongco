@@ -19,10 +19,12 @@ BSc Honors Computer Science @ the University of Alberta o_O
 | ![C](https://img.shields.io/badge/-C-blue?logo=c)                                                                                                | ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim)                          |
 | ![Rust](https://img.shields.io/badge/-Rust-orange?logo=rust)                                                                                    | ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)                                   |
 | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash)                                                                                  | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)                |
-| [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)                                                      | `valgrind`                                                                                  |
+| [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)                                                      |                                                                                             |
 | ![Python](https://img.shields.io/badge/-Python-blue?logo=python)                                                                                | ![Tmux](https://img.shields.io/badge/-Tmux-1E4B30?logo=tmux)                                |
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)                                                                                           | [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)|
-| [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)                                                | `gdb` – couldn’t find an icon 😅                                                              |
+| [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)                                                | `valgrind`                                                                                  |
+|                                                                                                                                                  | `gdb` – couldn’t find an icon 😅                                                              |
+
 
 
 Linux is my daily driver (Fedora now, previously Ubuntu, previously PopOS!) and my editor is Neovim. I find that a minimal setup without too much context switching keeps me focused 😶‍🌫️
