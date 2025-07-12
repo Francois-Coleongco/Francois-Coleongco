@@ -9,6 +9,7 @@ BSc Honors Computer Science @ the University of Alberta o_O
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=60000&color=E06DEA&width=435&lines=ls+~%2Fdev)](https://git.io/typing-svg)
 | Project  | Status |
 | ------------- | ------------- |
+| 📡 [Currently Working On (Golang)](https://github.com/Francois-Coleongco/SATD)  | Hush hush... |
 | 🗄️ [Multithreaded Encrypted File Server & Client (C++)](https://github.com/Francois-Coleongco/MEFSC)  | Stable release version :) See Releases. |
 | 🥷 [Encrypted Steganography Suite (Rust & TypeScript)](https://github.com/Francois-Coleongco/Steganography_Suite)  | Stable release version! See Releases. |
 | 🚀 [My Portfolio Site (Astro)](https://github.com/Francois-Coleongco/francois-coleongco.github.io)  | Rolling |
