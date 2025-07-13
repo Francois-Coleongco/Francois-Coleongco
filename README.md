@@ -14,38 +14,6 @@ BSc Honors Computer Science @ the University of Alberta o_O
 | 🥷 [Encrypted Steganography Suite (Rust & TypeScript)](https://github.com/Francois-Coleongco/Steganography_Suite)  | Stable release version! See Releases. |
 | 🚀 [My Portfolio Site (Astro)](https://github.com/Francois-Coleongco/francois-coleongco.github.io)  | Rolling |
 ----------------------------------------
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=30000&color=E06DEA&width=435&lines=cat+~%2Ftech)](https://git.io/typing-svg)
-
-| Languages                                                                                                                                         | Skills                                                                                      |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B)                                                                                       | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)                             |
-| ![C](https://img.shields.io/badge/-C-blue?logo=c)                                                                                                | [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)|
-| ![Rust](https://img.shields.io/badge/-Rust-orange?logo=rust)                                                                                    | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)                |
-| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash)                                                                                  | `valgrind`                                                                                  |
-| [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)                                                      | `gdb` – couldn’t find an icon 😅                                                              |
-| [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)                                                |                                                                                             |
-| ![Python](https://img.shields.io/badge/-Python-blue?logo=python)                                                                                | ![Tmux](https://img.shields.io/badge/-Tmux-1E4B30?logo=tmux)                                |
-| ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)                                                                                           | ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)                                   |
-|                        [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)                                                                                                                 | ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim)                          |
-
-
-Linux is my daily driver (Fedora now, previously Ubuntu, previously PopOS!) and my editor is Neovim. I find that a minimal setup without too much context switching keeps me focused 😶‍🌫️
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=francois-coleongco&theme=catppuccin-mocha&border_radius=9)](https://git.io/streak-stats)
-
-----------------------------------------
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=15000&color=E06DEA&width=435&lines=ls+~%2F.dotfiles)](https://git.io/typing-svg)
-
-If you like my setup, you can copy it over from 
-[here](https://github.com/Francois-Coleongco/dotfiles)!
-
-<sub>psst. it's GNU stow compliant ;)</sub>
-
-
-https://github.com/user-attachments/assets/f230942d-ebaa-4998-8749-42000e68a913
-
-
 
 <!--
 **Chris-Coleongco/Chris-Coleongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
