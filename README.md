@@ -1,5 +1,5 @@
 ----------------------------------------
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=120000&color=E06DEA&width=435&lines=whoami)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=120000&color=008080&width=435&lines=whoami)](https://git.io/typing-svg)
 
 Someone who likes to clickity clackity ⌨️ :)
 
