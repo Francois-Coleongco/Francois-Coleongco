@@ -1,9 +1,11 @@
 ----------------------------------------
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=120000&color=008080&width=435&lines=whoami)](https://git.io/typing-svg)
 
-Someone who likes to clickity clackity ⌨️ :)
+```while (walk) { walk = walk->next }```
 
-BSc Honors Computer Science @ the University of Alberta o_O
+BSc Honors Computer Science @ the University of Alberta
+Email: christien.coleongco@gmail.com
+
 <!--
 **Chris-Coleongco/Chris-Coleongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
