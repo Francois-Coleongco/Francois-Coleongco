@@ -1,7 +1,7 @@
 ----------------------------------------
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=120000&color=008080&width=435&lines=whoami)](https://git.io/typing-svg)
 
-```while (walk) { walk = walk->next }```
+```while (walk) { walk = walk->next; }```
 
 BSc Honors Computer Science @ the University of Alberta
 Email: christien.coleongco@gmail.com
