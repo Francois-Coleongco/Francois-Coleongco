@@ -4,6 +4,8 @@
 ```while (walk) { walk = walk->next; }```
 
 BSc Honors Computer Science @ the University of Alberta
+
+
 Email: christien.coleongco@gmail.com
 
 <!--
