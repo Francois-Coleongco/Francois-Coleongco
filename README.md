@@ -1,5 +1,5 @@
 ----------------------------------------
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=120000&color=008080&width=435&lines=whoami)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=+while+(walk)+%7B+walk+%3D+walk-%3Enext;+%7D)](https://git.io/typing-svg)
 
 ```while (walk) { walk = walk->next; }```
 
