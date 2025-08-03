@@ -3,9 +3,6 @@
 
 BSc Honors Computer Science @ the University of Alberta
 
-
-Reach me @: christien.coleongco@gmail.com
-
 <!--
 **Chris-Coleongco/Chris-Coleongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
