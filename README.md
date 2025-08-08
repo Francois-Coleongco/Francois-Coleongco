@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&separator=%3C&lines=+while+(walk)+%7B+walk+%3D+walk-%3Enext;+%7D)](https://git.io/typing-svg)
 ----------------------------------------
+BSc Honors Computer Science student who loves to clickity clack on the keyboard :) 
 
-BSc Honors Computer Science @ the University of Alberta
+"Beauty is in the eye of the beholder"
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cat+~%2Ftoolbox)](https://git.io/typing-svg)
 ----------------------------------------
