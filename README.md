@@ -2,7 +2,7 @@
 ----------------------------------------
 BSc Honors Computer Science student who loves to clickity clack on the keyboard :) 
 
-"Beauty is in the eye of the beholder"
+```"Beauty is in the eye of the beholder"```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cat+~%2Ftoolbox)](https://git.io/typing-svg)
 ----------------------------------------
