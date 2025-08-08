@@ -4,7 +4,7 @@
 
 BSc Honors Computer Science @ the University of Alberta
 
-## cat ~/toolbox
+### cat ~/toolbox
 [![My Skills](https://skillicons.dev/icons?i=cpp,golang,git,javascript,typescript,rust,python,java,bash,linux,spring,django,nodejs,react,postgres,selenium,sqlite,tauri,vim,docker&perline=10)](https://skillicons.dev)
 
 
