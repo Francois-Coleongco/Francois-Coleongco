@@ -2,14 +2,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=+while+(walk)+%7B+walk+%3D+walk-%3Enext;+%7D)](https://git.io/typing-svg)
 
 
-## toolbox
+BSc Honors Computer Science @ the University of Alberta
+
+## cat ~/toolbox
 [![My Skills](https://skillicons.dev/icons?i=cpp,golang,git,javascript,typescript,rust,python,java,bash,linux,spring,django,nodejs,react,postgres,selenium,sqlite,tauri,vim,docker&perline=10)](https://skillicons.dev)
 
 
 
 
-          
-BSc Honors Computer Science @ the University of Alberta
 
 <!--
 **Chris-Coleongco/Chris-Coleongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
