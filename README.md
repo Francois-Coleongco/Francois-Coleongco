@@ -6,7 +6,7 @@ BSc Honors Computer Science student who loves to clickity clack on the keyboard 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cat+~%2Ftoolbox)](https://git.io/typing-svg)
 ----------------------------------------
-[![My Skills](https://skillicons.dev/icons?i=cpp,golang,javascript,typescript,rust,python,java,bash,linux,git,spring,django,nodejs,react,postgres,selenium,sqlite,tauri,vim,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,golang,javascript,typescript,python,rust,java,bash,linux,git,spring,django,nodejs,react,postgres,selenium,sqlite,tauri,vim,docker&perline=10)](https://skillicons.dev)
 
 
 
