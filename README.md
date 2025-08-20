@@ -1,16 +1,20 @@
+# Hi, I'm Francois :)
+----------------------------------------
+
+## whoami
+
+- 🎓 I am an undergraduate honors CS major at the University of Alberta.
+
+- 🧑‍💻 Interested in systems, network, and security programming.
+
+- 🔨 [Most Recent Project](https://github.com/Francois-Coleongco/SATD) A distributed threat detection and monitoring system written in Go and Typescript.
+
+----------------------------------------
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,go,python,java,ts,js,bash,linux,git,nodejs,react,spring,django,postgres,sqlite,docker,selenium,tauri,vim&perline=10)](https://skillicons.dev)
+----------------------------------------
+
+### something to remember
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&separator=%3C&lines=+while+(walk)+%7B+walk+%3D+walk-%3Enext;+%7D)](https://git.io/typing-svg)
-----------------------------------------
-BSc Honors Computer Science student who loves to clickity clack on the keyboard :) 
-
-```"Beauty is in the eye of the beholder"```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cat+~%2Ftoolbox)](https://git.io/typing-svg)
-----------------------------------------
-[![My Skills](https://skillicons.dev/icons?i=cpp,golang,javascript,typescript,python,rust,java,bash,linux,git,spring,django,nodejs,react,postgres,selenium,sqlite,tauri,vim,docker&perline=10)](https://skillicons.dev)
-
-
-
-
 
 <!--
 **Chris-Coleongco/Chris-Coleongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
