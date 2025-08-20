@@ -6,7 +6,7 @@
 
 - 🧑‍💻 Interested in systems, network, and security programming.
 
-- 🔨 [Most Recent Project](https://github.com/Francois-Coleongco/SATD) A distributed threat detection and monitoring system written in Go and Typescript.
+- 🔨 [Most Recent Project](https://github.com/Francois-Coleongco/SATD): A distributed threat detection and monitoring system written in Go and Typescript.
 
 ----------------------------------------
 [![My Skills](https://skillicons.dev/icons?i=cpp,rust,go,python,java,ts,js,bash,linux,git,nodejs,react,spring,django,postgres,sqlite,docker,selenium,tauri,vim&perline=10)](https://skillicons.dev)
