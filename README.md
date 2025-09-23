@@ -9,7 +9,7 @@
 - 🔨 [Most Recent Project](https://github.com/Francois-Coleongco/SATD): A distributed threat detection and monitoring system written in Go and Typescript.
 
 ----------------------------------------
-[![My Skills](https://skillicons.dev/icons?i=cpp,rust,go,python,java,ts,js,bash,linux,git,nodejs,react,spring,django,postgres,sqlite,docker,selenium,tauri,vim,pytorch,sklearn&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,go,python,java,ts,js,bash,linux,git,nodejs,react,spring,django,postgres,sqlite,docker,selenium,tauri,neovim,pytorch,sklearn&perline=10)](https://skillicons.dev)
 ----------------------------------------
 
 ### something to remember
