@@ -8,6 +8,8 @@
 
 - 🔨 [Most Recent Project](https://github.com/Francois-Coleongco/SATD): A distributed threat detection and monitoring system written in Go and Typescript.
 
+- 📖 Currently Reading: *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
+
 ----------------------------------------
 [![My Skills](https://skillicons.dev/icons?i=cpp,rust,go,python,java,ts,js,bash,linux,git,nodejs,react,spring,django,postgres,sqlite,docker,selenium,tauri,neovim,pytorch,sklearn&perline=11)](https://skillicons.dev)
 ----------------------------------------
