@@ -2,9 +2,9 @@
 
 ## whoami
 
-- 🎓 I am an undergraduate honors CS major at the University of Alberta.
+- 🎓 Undergraduate Honors CS student at the University of Alberta.
 
-- 🧑‍💻 Interested in systems, network, and security programming.
+- 🧑‍💻 Interested in systems programming and AI.
 
 - 📖 Currently Reading: *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
 
