@@ -6,15 +6,16 @@
 
 - 🧑‍💻 Interested in systems, network, and security programming.
 
+- 📖 Currently Reading: *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
+
 - 🔨 [Most Recent Project](https://github.com/Francois-Coleongco/SATD): A distributed threat detection and monitoring system written in Go and Typescript.
 
-- 📖 Currently Reading: *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
 
 ----------------------------------------
 [![My Skills](https://skillicons.dev/icons?i=cpp,rust,go,python,java,ts,js,bash,linux,git,nodejs,react,spring,django,postgres,sqlite,docker,selenium,tauri,neovim,pytorch,sklearn&perline=11)](https://skillicons.dev)
 ----------------------------------------
 
-### something to remember
+### ¬∃t ∈ T : forget(t)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&separator=%3C&lines=+while+(walk)+%7B+walk+%3D+walk-%3Enext;+%7D)](https://git.io/typing-svg)
 
 <!--
