@@ -8,7 +8,7 @@
 
 - 📖 Currently Reading: *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
 
-- 🗂️ [Most Recent Complete Project](https://github.com/Francois-Coleongco/SATD): A distributed threat detection and monitoring system written in Go and Typescript
+- 🗂️ [Most Recent Complete Project](https://github.com/Francois-Coleongco/SATD): A distributed threat detection and monitoring system written in Golang and Typescript
 
 - 🛠️ [In Progress](https://github.com/Francois-Coleongco/LoadBalancer): An HTTP load balancer written in Golang
 
