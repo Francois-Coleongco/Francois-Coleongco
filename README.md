@@ -10,7 +10,7 @@
 
 - 🗂️ [Most Recent Complete Project](https://github.com/Francois-Coleongco/SATD): A distributed threat detection and monitoring system written in Go and Typescript
 
-- 🛠️ [In progress](https://github.com/Francois-Coleongco/LoadBalancer): An HTTP load balancer written in Golang
+- 🛠️ [In Progress](https://github.com/Francois-Coleongco/LoadBalancer): An HTTP load balancer written in Golang
 
 
 <!--
