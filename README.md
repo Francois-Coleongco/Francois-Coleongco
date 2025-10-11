@@ -2,16 +2,17 @@
 
 ## whoami
 
-- 🎓 Undergraduate Honors CS student at the University of Alberta.
+- 🎓 Undergraduate Honors CS student @ UofA.
 
-- 🧑‍💻 Interested in systems programming and AI.
+- 🧑‍💻 Interests: Systems programming, Cybersecurity, and AI.
 
-- 📖 Currently Reading: *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
+- 📖 Currently Reading (40%): *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
 
 - 🗂️ [Most Recent Complete Project](https://github.com/Francois-Coleongco/SATD): A distributed threat detection and monitoring system written in Golang and Typescript
 
 - 🛠️ [In Progress](https://github.com/Francois-Coleongco/LoadBalancer): An HTTP load balancer written in Golang
 
+- AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub) @ UofA
 
 <!--
 ----------------------------------------
