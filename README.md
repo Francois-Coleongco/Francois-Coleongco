@@ -12,7 +12,7 @@
 
 - 🛠️ [In Progress](https://github.com/Francois-Coleongco/LoadBalancer): An HTTP load balancer written in Golang
 
-- 🤖 AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub) @ UofA
+- 🤖 AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub) @ UofA and Full Stack Developer at the [UofA Blueprint Chapter](https://uofablueprint.com/)
 
 <!--
 ----------------------------------------
