@@ -8,9 +8,9 @@
 
 - 📖 Currently Reading (40%): *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
 
-- 🗂️ [Most Recent Complete Project](https://github.com/Francois-Coleongco/SATD): A distributed threat detection and monitoring system written in Golang and Typescript
+- 🗂️ [Most Recent Project](https://github.com/Francois-Coleongco/LoadBalancer): An HTTP load balancer written in Golang
 
-- 🛠️ [In Progress](https://github.com/Francois-Coleongco/LoadBalancer): An HTTP load balancer written in Golang
+- 🛠️ [In Progress](https://github.com/Francois-Coleongco/KeepItRolling): An AI-powered Video Preprocessor for the lazy video editor
 
 - 🤖 AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub) @ UofA and Full Stack Developer at the [UofA Blueprint Chapter](https://uofablueprint.com/)
 
