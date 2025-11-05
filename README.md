@@ -1,18 +1,13 @@
-# Hi, I'm Francois :)
+## hello! i'm <a href="https://fransys.netlify.app">francois</a>
 
-## whoami
+- An undergraduate Honors Computer Science major @ UofA interested in systems programming, cybersecurity, and AI.
 
-- 🎓 Undergraduate Honors CS student @ UofA.
+- Currently Reading (40%): *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
 
-- 🧑‍💻 Interests: Systems programming, Cybersecurity, and AI.
+- [Most Recent Project](https://github.com/Francois-Coleongco/LoadBalancer): An HTTP load balancer written in Golang
 
-- 📖 Currently Reading (40%): *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
-
-- 🗂️ [Most Recent Project](https://github.com/Francois-Coleongco/LoadBalancer): An HTTP load balancer written in Golang
-
-- 🛠️ [In Progress](https://github.com/Francois-Coleongco/KeepItRolling): An AI-powered Video Preprocessor for the lazy video editor
-
-- 🤖 AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub) @ UofA and Full Stack Developer at the [UofA Blueprint Chapter](https://uofablueprint.com/)
+Experience:
+- AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub) @ UofA and Full Stack Developer at the [UofA Blueprint Chapter](https://uofablueprint.com/)
 
 <!--
 ----------------------------------------
@@ -21,7 +16,7 @@
 ----------------------------------------
 
 ### ¬∃t ∈ T : forget(t)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&separator=%3C&lines=+while+(walk)+%7B+walk+%3D+walk-%3Enext;+%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=6000&color=7A7996&width=435&separator=%3C&lines=while+(walk)+walk%3Dwalk-%3Enext;)](https://git.io/typing-svg)
 
 <!--
 **Chris-Coleongco/Chris-Coleongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
