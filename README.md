@@ -16,7 +16,10 @@ Experience:
 ----------------------------------------
 
 ### ¬∃t ∈ T : forget(t)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=6000&color=7A7996&width=435&separator=%3C&lines=while+(walk)+walk%3Dwalk-%3Enext;)](https://git.io/typing-svg)
+
+```c++
+while (walk) walk = walk->next;
+```
 
 <!--
 **Chris-Coleongco/Chris-Coleongco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
