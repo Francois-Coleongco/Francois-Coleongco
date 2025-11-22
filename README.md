@@ -7,7 +7,7 @@
 - [Most Recent Project](https://github.com/Francois-Coleongco/LoadBalancer): An HTTP load balancer written in Golang
 
 Experience:
-- AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
+- Open source AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
 - Full Stack Developer at the [UofA Blueprint Chapter](https://uofablueprint.com/)
 
 <!--
