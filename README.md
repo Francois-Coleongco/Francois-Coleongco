@@ -22,7 +22,6 @@ Experience:
 while (walk) walk = walk->next;
 ```
 
-![francois-coleongco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=francois-coleongco&theme=gotham&hide_border=true)
 ----------------------------------------
 
 <!--
