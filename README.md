@@ -4,7 +4,7 @@
 
 - [Most Recent Project](https://github.com/Francois-Coleongco/LoadBalancer): A thread-safe HTTP load balancer written in Golang
 
-- If given a hammer, I don't start thinking everything is a nail. My primary languages are C++, Golang, Rust, Python and TypeScript.
+- If given a hammer, I don't start thinking everything is a nail. My primary languages are C++, Golang, Rust, Python and TypeScript
 
 ### Experience:
 - Open source AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
