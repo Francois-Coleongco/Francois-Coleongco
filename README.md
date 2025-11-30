@@ -1,12 +1,10 @@
 ## hello! i'm <a href="https://fransys.netlify.app">francois</a>
 
-- An undergraduate Honors Computer Science major @ UofA interested in systems programming, cybersecurity, and AI.
+- An undergraduate Honors Computer Science major @ UofA interested in systems programming, cybersecurity, and AI
 
-- Currently Reading (40%): *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
+- [Most Recent Project](https://github.com/Francois-Coleongco/LoadBalancer): A thread-safe HTTP load balancer written in Golang
 
-- [Most Recent Project](https://github.com/Francois-Coleongco/LoadBalancer): An HTTP load balancer written in Golang
-
-Experience:
+### Experience:
 - Open source AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
 - Full Stack Developer at the [UofA Blueprint Chapter](https://uofablueprint.com/)
 
@@ -18,8 +16,18 @@ Experience:
 
 ### ¬∃t ∈ T : forget(t)
 
-```c++
-while (walk) walk = walk->next;
+```
+la  t0, ME
+
+loop:
+lb t1, 0(t0)
+beq t1, zero, exitLoop
+addi t1, zero, 1
+sb t1, 0(t0)
+addi t0, t0, 1
+
+exitLoop:
+ret
 ```
 
 ----------------------------------------
