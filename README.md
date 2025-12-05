@@ -7,6 +7,7 @@
 - If given a hammer, I don't start thinking everything is a nail. My primary languages are C++, Golang, Rust, Python and TypeScript
 
 ### Experience:
+- Incoming SWE Intern @ IBM
 - Open source AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
 - Full Stack Developer at the [UofA Blueprint Chapter](https://uofablueprint.com/)
 
