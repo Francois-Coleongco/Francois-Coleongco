@@ -8,8 +8,8 @@
 
 ### Experience:
 - Incoming SWE Intern @ [IBM](https://www.ibm.com/ca-en)
-- Open source AI Engineer at [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
-- Full Stack Developer at the [UofA Blueprint Chapter](https://uofablueprint.com/)
+- Open source AI Engineer @ [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
+- Full Stack Developer @ [UofA Blueprint Chapter](https://uofablueprint.com/)
 
 
 ### Reach me:
@@ -27,15 +27,15 @@
 ### ¬∃t ∈ T : forget(t)
 
 ```
-la  t0, ME
+# Node structure [ data (4 bytes) | next_year (4 bytes) ]
+la  t0, HEAD
 
 loop:
-lb t1, 0(t0)
+addi t2, t0, 4
+lw t1, 0(t2)
 beq t1, zero, exitLoop
-addi t1, zero, 1
-sb t1, 0(t0)
-addi t0, t0, 1
-
+mv t0, t1
+j loop
 exitLoop:
 ret
 ```
