@@ -4,7 +4,8 @@
 
 - [Most Recent Project](https://github.com/Francois-Coleongco/LoadBalancer): A thread-safe HTTP load balancer written in Golang
 
-- My primary languages are C++, Golang, Rust, Python and TypeScript, and I choose whichever I think is *right for the job*
+- Currently reading *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau (51%)
+
 
 ### Experience:
 - Incoming SWE Intern @ [IBM](https://www.ibm.com/ca-en)
