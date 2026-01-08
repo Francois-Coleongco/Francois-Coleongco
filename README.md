@@ -8,7 +8,7 @@
 
 
 ### Experience:
-- Incoming SWE Intern @ [IBM](https://www.ibm.com/ca-en)
+- SWE Intern @ [IBM](https://www.ibm.com/ca-en)
 - Open source AI Engineer @ [UAIS](https://github.com/UndergraduateArtificialIntelligenceClub)
 - Full Stack Developer @ [UofA Blueprint Chapter](https://uofablueprint.com/)
 
